@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YTD": {
+      "commandName": "Project",
+      "commandLineArgs": "-s https://music.youtube.com/watch?v=2lrq--lFfRc"
+    }
+  }
+}
